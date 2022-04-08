@@ -21,3 +21,6 @@ you can now try if it works simply by running `php -a` and in interractive shell
 
 ## Motivation
 Using everyday's function `dd` is awesome, but I have to integrate it on every projects I want, even if I just want to test a single php file :(. So now I can use it everywhere ! without having to add symfony/var-dumper in my projects or even adding composer for some algorithmic problems I have to solve sometimes.
+
+## Special Thanks
+Thanks to [@lyrixx](https://github.com/lyrixx) for showing this solution 
