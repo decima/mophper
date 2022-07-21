@@ -8,7 +8,7 @@ To do this, you will need `composer`.
 
 Clone this project and go into the folder. then run 
 ```
-./install.php
+./install.sh
 ```
 
 
